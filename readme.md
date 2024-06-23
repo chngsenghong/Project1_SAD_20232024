@@ -20,3 +20,6 @@ In the bustling campus of Universiti Teknologi Malaysia (UTM), the introduction 
 Here's the link to kanban board link
 [Kanban Board Link](https://github.com/users/chngsenghong/projects/1/views/1)
 
+Here's the link for the Prototype 
+[Prototype](https://www.figma.com/proto/4nQBY7PKTiY3GBiSfFq8AW/SAD-Phase-3?node-id=0-1&t=J4Qv9FvEDxbi2sRg-1 )
+
