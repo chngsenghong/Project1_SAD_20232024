@@ -32,6 +32,6 @@ Here's the link for the Prototype
 
 
 <h2>Phase 3- Analysis and Design</h2>
-<p>Report link: <a href="https://drive.google.com/file/d/1KbY4nz4qgNKx_xpYpXXwCgsC6KzCYGiw/view?usp=sharing">Report Phase 3.pdf</a></p>
+<p>Report link: <a href="https://github.com/chngsenghong/Project1_SAD_20232024/blob/efc4a7fbe6e4f6a69bedd561ad8cc962d17b8f9e/Phase%203.pdf">Report Phase 3.pdf</a></p>
 
 
