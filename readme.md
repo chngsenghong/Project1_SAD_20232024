@@ -28,7 +28,7 @@ Here's the link for the Prototype
 
 
 <h2>Phase 2- Information System Gathering and Requirement</h2>
-<p>Report link: <a href="https://drive.google.com/file/d/1RfRFWO0uu3bRGHn6a2QaAvMILIWOYw87/view?usp=sharing">Report Phase 2.pdf</a></p>
+<p>Report link: <a href="https://github.com/chngsenghong/Project1_SAD_20232024/blob/89074109ed9e07778e175916c5e148837f813701/Phase%202.pdf">Report Phase 2.pdf</a></p>
 
 
 <h2>Phase 3- Analysis and Design</h2>
