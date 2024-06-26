@@ -23,3 +23,15 @@ Here's the link to kanban board link
 Here's the link for the Prototype 
 [Prototype](https://www.figma.com/proto/4nQBY7PKTiY3GBiSfFq8AW/SAD-Phase-3?node-id=0-1&t=J4Qv9FvEDxbi2sRg-1 )
 
+<h2>Phase 1- Project Proposal and Planning</h2>
+<p>Report link: <a href="https://github.com/chngsenghong/Project1_SAD_20232024/blob/5d74fd8d72df0277694344f64c0a69bcc317660c/Phase%201.pdf">Report Phase 1.pdf</a></p>
+
+
+<h2>Phase 2- Information System Gathering and Requirement</h2>
+<p>Report link: <a href="https://drive.google.com/file/d/1RfRFWO0uu3bRGHn6a2QaAvMILIWOYw87/view?usp=sharing">Report Phase 2.pdf</a></p>
+
+
+<h2>Phase 3- Analysis and Design</h2>
+<p>Report link: <a href="https://drive.google.com/file/d/1KbY4nz4qgNKx_xpYpXXwCgsC6KzCYGiw/view?usp=sharing">Report Phase 3.pdf</a></p>
+
+
